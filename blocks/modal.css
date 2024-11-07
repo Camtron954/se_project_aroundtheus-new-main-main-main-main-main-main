@@ -43,7 +43,7 @@ margin-bottom: 30px;
     height: 50.15px;
     border-radius: 2px;
     font-family: "Inter", Arial, sans-serif;
-font-size: 14px;
+font-size: 18px;
 background-color: black;
 color: #fff;
 }
@@ -87,6 +87,10 @@ line-height: 21.78px;
 text-align: left;
     }
 
+    .modal__heading {
+        font-size: 18px;
+    }
+
     .modal__title {
         width: 238px;
 height: 27px;
@@ -119,5 +123,6 @@ border-bottom: rgb(84 84 84 / 0.2) solid 1px;
         width: 238px;
 height: 46px;
 border-radius: 2px;
+font-size: 14px;
     }
 }
